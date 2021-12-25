@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working with DXDY
+- 🔭 I’m currently working for [DXDY](https://dxdydigital.com/)
 - 📚 I'm currently learning Node Js 
 - 🧒 You can find more about me [here](https://shaznan.netlify.app/)
 - 📫 How to reach me: 
