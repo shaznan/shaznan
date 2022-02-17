@@ -1,6 +1,9 @@
+<a href="https://stackoverflow.com/users/15356144/shaznan-fairoze" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=15356144" />
+</a>
+
 ![github cover-02](https://user-images.githubusercontent.com/74103414/130759883-aa26f2b4-476a-401b-87bb-8e9219a9b078.png)
-
-
 
 ### Hi there 👋
 
